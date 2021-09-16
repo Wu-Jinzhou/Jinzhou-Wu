@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Twine_Watson
+- 👀 This is a place where I upload my learning code and stuff
